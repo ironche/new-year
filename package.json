@@ -1,0 +1,11 @@
+{
+  "name": "new-year",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "http-server . -c-1 -p 4201"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3"
+  }
+}
