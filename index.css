@@ -14,12 +14,12 @@ html {
 
 @media all and (orientation:portrait) {
   html {
-    background-position: bottom center;
+    background-position: 100% 50%;
   }
 }
 @media all and (orientation:landscape) {
   html {
-    background-position: center center;
+    background-position: 0% 30%;
   }
 }
 
