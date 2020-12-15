@@ -1,5 +1,5 @@
 html {
-  background-image: url('background.png');
+  background-image: url('background-normal.png'), url('background-small.jpg');
   background-position: bottom center;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -19,7 +19,7 @@ html {
 }
 @media all and (orientation:landscape) {
   html {
-    background-position: 0% 30%;
+    background-position: 0% 50%;
   }
 }
 
